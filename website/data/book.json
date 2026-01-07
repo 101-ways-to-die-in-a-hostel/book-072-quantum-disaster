@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A physics graduate student experimenting with a black-market quantum device accidentally shifts himself into a parallel timeline where he never existed, causing reality to violently reject his presence and erase him from existence.",
     "long": ""
   },
   "death_type": "Quantum Disaster",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Some timelines aren't meant to have you in them."
 }
